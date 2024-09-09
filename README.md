@@ -1,0 +1,1 @@
+This repository contains my Final Project submission for my graduate level Text & Unstructured Data Analytics course at UNC Wilmington from April 2024. Please download the Word document in this repository to review my analysis and R code for this project.
